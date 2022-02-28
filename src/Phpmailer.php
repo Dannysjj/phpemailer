@@ -8,8 +8,8 @@ class Phpmailer{
 
     }
 
-    function index(){
-        
+    function integrate(){
+        echo 'hello';
     }
 
 }
